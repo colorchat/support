@@ -30,6 +30,7 @@
 > 3.使用您的 Apple ID 登录，然后点按“显示帐户”。
 
 > 4.在“帐户信息”页面，点按“更改国家或地区”。
+![images](https://github.com/phsoft004/support/blob/master/images/ios2.jpg)
 
 > 5.从“选择国家或地区”菜单中，选择新的国家或地区。
 

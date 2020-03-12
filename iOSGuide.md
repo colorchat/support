@@ -10,6 +10,7 @@
 > 3.轻点您的 Apple ID，然后轻点“查看 Apple ID”。系统可能会要求您登录。
 
 > 4.轻点“国家/地区”。
+![images](https://github.com/phsoft004/support/blob/master/images/ios1.jpg)
 
 > 5.轻点“更改国家或地区”。
 

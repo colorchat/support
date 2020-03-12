@@ -36,7 +36,13 @@ step6：商业群聊创建成功！您可以在此步骤设置群聊角色，或
 
 
 点击聊天页面右上角“···”即可进入群聊管理页面，您可在此设置群聊基本信息或设置群聊管理权限。
-[Image: image.png][Image: image.png]4. 禁言管理是什么？如何设置？
+
+![image](https://github.com/phsoft004/support/blob/master/images/bg/image-6.png)
+
+
+![image](https://github.com/phsoft004/support/blob/master/images/bg/image-7.png)
+
+4. 禁言管理是什么？如何设置？
 
 
 为方便群聊管理设置禁言功能，群内具有此权限的管理员可选择用户将其设置为禁言状态，禁言状态下的用户仍可接受并查看群聊天内容，但无法在群内发布文字、图片、视频和语音消息，直至禁言状态解除。
@@ -44,13 +50,31 @@ step6：商业群聊创建成功！您可以在此步骤设置群聊角色，或
 *设置方法**一**：*
 
 step1：在群聊天页面内点击想要禁言的用户头像，进入用户资料页，点击右上角“···”，点击“设置临时禁言”；
-[Image: image.png][Image: image.png]step2：点击想要禁言的时间后，选择“设置禁言”确认，禁言成功。
-[Image: image.png]step3：禁言时间到期后即可自动解除禁言，如需提前解除或重新设置禁言时间按照上述交互重新设置即可。
-[Image: image.png]*设置方法二：*
+
+![image](https://github.com/phsoft004/support/blob/master/images/bg/image-8.png)
+
+
+![image](https://github.com/phsoft004/support/blob/master/images/bg/image-9.png)
+
+step2：点击想要禁言的时间后，选择“设置禁言”确认，禁言成功。
+
+![image](https://github.com/phsoft004/support/blob/master/images/bg/image-10.png)
+
+step3：禁言时间到期后即可自动解除禁言，如需提前解除或重新设置禁言时间按照上述交互重新设置即可。
+
+![image](https://github.com/phsoft004/support/blob/master/images/bg/image-11.png)
+
+*设置方法二：*
 
 step1：点击群聊天页面右上角“···”进入群设置页面，点击“商业群管理”，选择“禁言管理”；
-[Image: image.png]step2：按需要选择全体禁言或部分人群禁言，设置操作如上。
-[Image: image.png]五、小黑屋管理是什么？如何设置？
+
+![image](https://github.com/phsoft004/support/blob/master/images/bg/image-12.png)
+
+step2：按需要选择全体禁言或部分人群禁言，设置操作如上。
+
+![image](https://github.com/phsoft004/support/blob/master/images/bg/image-13.png)
+
+五、小黑屋管理是什么？如何设置？
 
 
 为方便群内聊天管理设置小黑屋功能，有此权限的管理员可选择用户将其设置为小黑屋状态，该状态下用户无法查看群内聊天消息，也无法参与聊天，直至小黑屋限制解除。
@@ -58,10 +82,22 @@ step1：点击群聊天页面右上角“···”进入群设置页面，点击
 *设置方法**一**：*
 
 step1：在群聊天页面内点击想要关进小黑屋的用户头像，进入用户资料页，点击右上角“···”，点击“移入群聊小黑屋”；
-[Image: image.png][Image: image.png]step2：点击想要移入小黑屋的时间后，选择“设置小黑屋”确认，设置成功。
-[Image: image.png]step3：小黑屋时间到期后即可自动解除，如需提前解除或重新设置小黑屋时间按照上述交互重新设置即可。
+
+![image](https://github.com/phsoft004/support/blob/master/images/bg/image-14.png)
+
+
+![image](https://github.com/phsoft004/support/blob/master/images/bg/image-15.png)
+
+step2：点击想要移入小黑屋的时间后，选择“设置小黑屋”确认，设置成功。
+
+![image](https://github.com/phsoft004/support/blob/master/images/bg/image-16.png)
+
+step3：小黑屋时间到期后即可自动解除，如需提前解除或重新设置小黑屋时间按照上述交互重新设置即可。
 
 *设置方法二：*
 
 step1：点击群聊天页面右上角“···”进入群设置页面，点击“商业群管理”，选择“小黑屋成员列表”；
-[Image: image.png]step2：按需要进行查看或更改，设置操作如上。
+
+![image](https://github.com/phsoft004/support/blob/master/images/bg/image-17.png)
+
+step2：按需要进行查看或更改，设置操作如上。

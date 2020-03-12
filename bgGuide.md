@@ -15,13 +15,22 @@ step2：点击底部菜单栏“我的”进入我的页面，点击“组织管
 ![image](https://github.com/phsoft004/support/blob/master/images/bg/image-0.png)
 
 step3：在此可看到您认证的商业组织，点击“创建一个商业群”，进入创建页面；
+
 ![image](https://github.com/phsoft004/support/blob/master/images/bg/image-1.png)
+
 step4：为您的商业群聊上传群logo、填写群名称并选择群模板，完成后请点击“下一步”；
+
 ![image](https://github.com/phsoft004/support/blob/master/images/bg/image-2.png)
+
 step5：设置商业群聊的管理权限，完成后请点击“完成创建”；
+
 ![image](https://github.com/phsoft004/support/blob/master/images/bg/image-3.png)
+
 step6：商业群聊创建成功！您可以在此步骤设置群聊角色，或稍后通过群聊天设置页面的“群管理”-“群角色管理”中进行设置；点击“添加新角色”后，按需求设置角色的权限信息，完成后请点击下方“保存该角色”即可。
+
 ![image](https://github.com/phsoft004/support/blob/master/images/bg/image-4.png)
+
+![image](https://github.com/phsoft004/support/blob/master/images/bg/image-5.png)
 
 3. 如何设置群聊信息或管理商业群？
 

@@ -1,6 +1,7 @@
-# AppStore中搜索”ColorChat“，就可以下载使用应用
+# AppStore中搜索”ColorChat“，就可以下载使用应用。
 
-# 如果您的AppleID是中国地区，请先更改您所在的国家或地区
+
+# 如果您的AppleID是中国地区，请先更改您所在的国家或地区（操作步骤如下），再搜索ColorChat。
 
 ## 在 iPhone、iPad 或 iPod touch 上
 

@@ -11,7 +11,9 @@ IM 商业群聊使用说明书
 step1：注册商业组织，并认证成为商业组织的owner。（请联系管理员获取商业组织owner账号）
 
 step2：点击底部菜单栏“我的”进入我的页面，点击“组织管理”；
+
 ![image](https://github.com/phsoft004/support/blob/master/images/bg001.png)
+
 step3：在此可看到您认证的商业组织，点击“创建一个商业群”，进入创建页面；
 [Image: image.png]step4：为您的商业群聊上传群logo、填写群名称并选择群模板，完成后请点击“下一步”；
 [Image: image.png]step5：设置商业群聊的管理权限，完成后请点击“完成创建”；
